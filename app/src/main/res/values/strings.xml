@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Glass Demo App</string>
+    <string name="title_activity_main">Hello World Immersion</string>
+    <string name="hello_world">Hello world! I have gotten it to work!</string>
+    <string name="title_activity_questionactivity">Hello World Immersion</string>
+
+</resources>
